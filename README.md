@@ -1,53 +1,23 @@
-### Societies of Control through Proprietary Software: A Left Accelerationist Perspective
+### Societies of Control through Proprietary Software
 
-The shift from disciplinary societies to control societies, as outlined by Gilles Deleuze, marks a significant transformation in the mechanisms of power and control. In the contemporary digital era, proprietary software exemplifies the pervasive control mechanisms characteristic of control societies. This essay explores how proprietary software perpetuates control and how the enforcement of the GNU General Public License (GPL) can serve as a countermeasure, aligned with Left Accelerationist ethics.
+The transition from disciplinary societies to control societies, as articulated by Gilles Deleuze, marks a profound transformation in the mechanisms of power and control. In the contemporary digital era, proprietary software stands as a quintessential embodiment of these control mechanisms. This essay examines how proprietary software perpetuates control and argues that the enforcement of the GNU General Public License (GPL) aligns with Left Accelerationist ethics, offering a countermeasure to such pervasive control.
 
-#### Historical Context: From Disciplinary to Control Societies
+Michel Foucault’s analysis of disciplinary societies elucidates how institutions like the family, school, factory, and prison impose specific rules and norms to produce disciplined individuals. These institutions function within enclosed spaces, transitioning individuals from one environment to another, each with its own set of regulations and expectations.
 
-Michel Foucault’s concept of disciplinary societies revolves around institutions like the family, school, factory, and prison, each imposing specific rules and norms to produce disciplined individuals. These institutions operate within enclosed spaces, transitioning individuals from one environment to another, each with its own set of regulations.
+Deleuze expands upon Foucault’s ideas, identifying the emergence of control societies in the mid-20th century. Unlike their disciplinary predecessors, control societies do not confine individuals within specific spaces but rather employ continuous modulation and surveillance. Power in these societies is exercised through flexible and pervasive systems, which adapt to and influence individuals' behaviors in real-time, ensuring a more subtle but equally powerful form of control.
 
-Deleuze expanded on Foucault’s ideas, identifying the emergence of control societies in the mid-20th century. Control societies, unlike their disciplinary predecessors, do not rely on enclosed spaces but on continuous modulation and surveillance. Power in control societies is exercised through flexible and pervasive systems, adapting to and influencing individuals' behaviors in real time.
+Proprietary software exemplifies the essence of control societies by restricting access, usage, and modification of software through legal and technical means. This creates a closed system where control is maintained by the software owners, reinforcing dependency and surveillance.
 
-#### Proprietary Software as a Mechanism of Control
+Microsoft Windows serves as a prominent example of proprietary control. Users are bound by the End User License Agreement (EULA), which imposes restrictions on how the software can be used, modified, or redistributed. Windows requires product activation to verify the software's authenticity and enforce the terms of the license, preventing unauthorized use. Furthermore, Microsoft can push updates to users, sometimes without their explicit consent. While these updates can improve security and functionality, they can also introduce unwanted changes and new forms of control. Windows also collects extensive telemetry data to improve user experience and product performance. However, this data collection can also be perceived as a form of surveillance, gathering information about user behavior and system usage.
 
-Proprietary software embodies the essence of control societies by restricting access, usage, and modification of software through legal and technical means. This creates a closed system where control is maintained by the software owners, reinforcing dependency and surveillance.
+Apple’s ecosystem, including macOS, iOS, and the App Store, demonstrates proprietary control through its tight integration of hardware and software, creating a seamless user experience but also locking users into its ecosystem. Users cannot easily modify or repair their devices, as Apple controls both the hardware and software. The App Store approval process further exemplifies this control, as all apps must be approved by Apple, giving it control over what software is available on its devices. Apple also takes a significant commission on all App Store sales, which has been criticized for stifling competition and innovation. Despite marketing itself as a champion of user privacy, Apple still collects significant amounts of data through its services and devices, raising concerns about privacy and the potential misuse of sensitive information.
 
-1. **Restricted Access and Transparency**:
-    - **Closed Source Code**: Proprietary software keeps its source code hidden, preventing users from understanding, modifying, or improving the software. This lack of transparency consolidates control in the hands of the software owners.
-    - **Surveillance and Data Collection**: Proprietary software often includes terms that allow for extensive data collection and surveillance, further entrenching the power dynamics of control societies.
-
-2. **Dependence and Continuous Modulation**:
-    - **Licensing Agreements**: Users of proprietary software are bound by licensing agreements that dictate how the software can be used, modified, and distributed. These agreements ensure that control is maintained even after the software is purchased.
-    - **Updates and Digital Rights Management (DRM)**: Proprietary software relies on updates and DRM to enforce control, modulating users’ access and functionality over time. This continuous modulation aligns with Deleuze’s description of control societies.
-
-3. **Economic and Social Implications**:
-    - **Monopolistic Practices**: Proprietary software often leads to monopolistic practices, where a few corporations dominate the market, stifling competition and innovation.
-    - **Social Inequality**: The control exerted by proprietary software exacerbates social inequalities, as access to technology and its benefits are unevenly distributed.
-
-#### The GNU General Public License (GPL) as a Countermeasure
+Adobe Creative Suite, now known as Adobe Creative Cloud, employs a subscription-based model that locks users into continuous payment cycles. Users must pay a monthly or annual subscription fee to access Adobe’s software, ensuring a steady revenue stream for Adobe but also enforcing continuous payments to maintain access to the tools they need. If a user cancels their subscription, they lose access to the software and their work files unless they export them to a non-proprietary format beforehand. Adobe Creative Cloud also includes cloud storage for saving and syncing files across devices, but this means that Adobe has control over the user's data, including the ability to access, manage, and potentially monitor stored files.
 
 The GPL offers an alternative to the proprietary model by promoting transparency, freedom, and collective ownership. Enforcing GPL compliance can mitigate the control mechanisms inherent in proprietary software, aligning with Left Accelerationist ethics.
 
-1. **Transparency and Accessibility**:
-    - **Open Source Code**: GPL ensures that software source code is available to all, promoting transparency and collective improvement. This openness challenges the secrecy of proprietary software.
-    - **Empowerment through Knowledge**: By making source code accessible, GPL empowers individuals to understand, modify, and improve software, fostering a more informed and autonomous user base.
+The GPL ensures that software source code is available to all, promoting transparency and collective improvement. This openness challenges the secrecy of proprietary software, empowering individuals to understand, modify, and improve software, fostering a more informed and autonomous user base. By granting users the freedom to use, study, modify, and distribute software, the GPL breaks the dependency on software owners and reduces continuous modulation. By promoting open source, the GPL decentralizes technological power, distributing it among a global community rather than a few corporations.
 
-2. **Freedom from Control**:
-    - **User Autonomy**: GPL grants users the freedom to use, study, modify, and distribute software, breaking the dependency on software owners and reducing continuous modulation.
-    - **Decentralization of Power**: By promoting open source, GPL decentralizes technological power, distributing it among a global community rather than a few corporations.
+From a Left Accelerationist perspective, enforcing GPL compliance embodies several ethical principles. It creates a form of resistance against the pervasive control mechanisms of proprietary software, promoting autonomy and transparency. The GPL aligns with Left Accelerationist ethics by promoting the collective good over individual profit, ensuring that technological advancements benefit society as a whole. It democratizes technology, allowing more people to participate in and benefit from technological progress.
 
-3. **Collective Ownership and Innovation**:
-    - **Communal Resource**: GPL-treated software becomes a communal resource, reflecting Left Accelerationist ideals of collective ownership and use. This communal approach contrasts sharply with the privatization inherent in proprietary software.
-    - **Accelerated Innovation**: The collaborative environment fostered by GPL accelerates innovation, as developers worldwide can contribute to and improve software.
-
-#### Left Accelerationist Ethics and the GPL
-
-From a Left Accelerationist perspective, enforcing GPL compliance embodies several ethical principles:
-
-- **Resistance to Control**: GPL creates a form of resistance against the pervasive control mechanisms of proprietary software, promoting autonomy and transparency.
-- **Promotion of Collective Good**: GPL aligns with Left Accelerationist ethics by promoting the collective good over individual profit, ensuring that technological advancements benefit society as a whole.
-- **Empowerment through Knowledge**: GPL democratizes technology, allowing more people to participate in and benefit from technological progress.
-
-### Conclusion
-
-Proprietary software, as a mechanism of control societies, perpetuates dependency, surveillance, and social inequality. The enforcement of GPL compliance offers a powerful counter-narrative, promoting transparency, freedom, and collective ownership. From a Left Accelerationist perspective, GPL aligns with ethical principles that resist control, promote the collective good, and empower individuals through knowledge. Embracing and enforcing GPL can challenge the dominance of control societies and pave the way for a more equitable and democratic technological future.
+Proprietary software, as exemplified by Microsoft Windows, Apple’s ecosystem, and Adobe Creative Suite, epitomizes the mechanisms of control in contemporary digital societies. These mechanisms include restricted access, continuous modulation through updates and subscriptions, and extensive data collection and surveillance. The enforcement of the GNU General Public License (GPL) offers a powerful counter-narrative, promoting transparency, freedom, and collective ownership. By embracing and enforcing GPL, we can challenge the dominance of control societies and pave the way for a more equitable and democratic technological future. The shift towards GPL-compliant software aligns with Left Accelerationist ethics, promoting technological acceleration, social and economic transformation, and a redistribution of technological power.
