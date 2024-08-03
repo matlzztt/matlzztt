@@ -1,23 +1,45 @@
-### Societies of Control through Proprietary Software
 
-The transition from disciplinary societies to control societies, as articulated by Gilles Deleuze, marks a profound transformation in the mechanisms of power and control. In the contemporary digital era, proprietary software stands as a quintessential embodiment of these control mechanisms. This essay examines how proprietary software perpetuates control and argues that the enforcement of the GNU General Public License (GPL) aligns with Left Accelerationist ethics, offering a countermeasure to such pervasive control.
+# Welcome to My GitHub Profile! 👋
 
-Michel Foucault’s analysis of disciplinary societies elucidates how institutions like the family, school, factory, and prison impose specific rules and norms to produce disciplined individuals. These institutions function within enclosed spaces, transitioning individuals from one environment to another, each with its own set of regulations and expectations.
+## About Me
 
-Deleuze expands upon Foucault’s ideas, identifying the emergence of control societies in the mid-20th century. Unlike their disciplinary predecessors, control societies do not confine individuals within specific spaces but rather employ continuous modulation and surveillance. Power in these societies is exercised through flexible and pervasive systems, which adapt to and influence individuals' behaviors in real-time, ensuring a more subtle but equally powerful form of control.
+I'm currently enrolled as a Computer Science undergraduate at the Center of Studies and Advanced Systems of Recife (CESAR School). My experience spans several programming languages and technologies, including:
 
-Proprietary software exemplifies the essence of control societies by restricting access, usage, and modification of software through legal and technical means. This creates a closed system where control is maintained by the software owners, reinforcing dependency and surveillance.
+- **C**: Deeply involved in Linux development & system administration.
+- **Shell Scripts**: Scripting to automate tasks and enhance system functionality.
+- **Python**: Versatile scripting and automation.
+- **Java**: Object-oriented programming and application development.
+- **Web Development**: Proficient in HTML, CSS, and JavaScript.
 
-Microsoft Windows serves as a prominent example of proprietary control. Users are bound by the End User License Agreement (EULA), which imposes restrictions on how the software can be used, modified, or redistributed. Windows requires product activation to verify the software's authenticity and enforce the terms of the license, preventing unauthorized use. Furthermore, Microsoft can push updates to users, sometimes without their explicit consent. While these updates can improve security and functionality, they can also introduce unwanted changes and new forms of control. Windows also collects extensive telemetry data to improve user experience and product performance. However, this data collection can also be perceived as a form of surveillance, gathering information about user behavior and system usage.
+## Current Projects
 
-Apple’s ecosystem, including macOS, iOS, and the App Store, demonstrates proprietary control through its tight integration of hardware and software, creating a seamless user experience but also locking users into its ecosystem. Users cannot easily modify or repair their devices, as Apple controls both the hardware and software. The App Store approval process further exemplifies this control, as all apps must be approved by Apple, giving it control over what software is available on its devices. Apple also takes a significant commission on all App Store sales, which has been criticized for stifling competition and innovation. Despite marketing itself as a champion of user privacy, Apple still collects significant amounts of data through its services and devices, raising concerns about privacy and the potential misuse of sensitive information.
+### 🌡️ Thermo-Scout
+Thermo-Scout is a real-time temperature monitoring tool for Linux systems, written entirely in C. The project aims to provide efficient and accurate temperature readings from various sensors, complete with logging and visualization features. Future enhancements include:
+- Packaging as an installable executable using Pacman.
+- Adding a TUI and GUI for better user interaction.
+- Real-time Cartesian graphical visualization.
 
-Adobe Creative Suite, now known as Adobe Creative Cloud, employs a subscription-based model that locks users into continuous payment cycles. Users must pay a monthly or annual subscription fee to access Adobe’s software, ensuring a steady revenue stream for Adobe but also enforcing continuous payments to maintain access to the tools they need. If a user cancels their subscription, they lose access to the software and their work files unless they export them to a non-proprietary format beforehand. Adobe Creative Cloud also includes cloud storage for saving and syncing files across devices, but this means that Adobe has control over the user's data, including the ability to access, manage, and potentially monitor stored files.
+[Check out Thermo-Scout](https://github.com/yourusername/thermo-scout)
 
-The GPL offers an alternative to the proprietary model by promoting transparency, freedom, and collective ownership. Enforcing GPL compliance can mitigate the control mechanisms inherent in proprietary software, aligning with Left Accelerationist ethics.
+### 📋 Task Management System
+Developing an organizational system to manage daily, weekly, and monthly tasks. The project will eventually evolve into a mobile app (Android) and desktop application (Linux) with a prototype TUI using C++ and ncurses.
 
-The GPL ensures that software source code is available to all, promoting transparency and collective improvement. This openness challenges the secrecy of proprietary software, empowering individuals to understand, modify, and improve software, fostering a more informed and autonomous user base. By granting users the freedom to use, study, modify, and distribute software, the GPL breaks the dependency on software owners and reduces continuous modulation. By promoting open source, the GPL decentralizes technological power, distributing it among a global community rather than a few corporations.
+### 🔧 Linux Development
+Engaged in various Linux-based projects, enhancing system functionality, automating tasks, and contributing to open-source communities.
 
-From a Left Accelerationist perspective, enforcing GPL compliance embodies several ethical principles. It creates a form of resistance against the pervasive control mechanisms of proprietary software, promoting autonomy and transparency. The GPL aligns with Left Accelerationist ethics by promoting the collective good over individual profit, ensuring that technological advancements benefit society as a whole. It democratizes technology, allowing more people to participate in and benefit from technological progress.
+## Skills
 
-Proprietary software, as exemplified by Microsoft Windows, Apple’s ecosystem, and Adobe Creative Suite, epitomizes the mechanisms of control in contemporary digital societies. These mechanisms include restricted access, continuous modulation through updates and subscriptions, and extensive data collection and surveillance. The enforcement of the GNU General Public License (GPL) offers a powerful counter-narrative, promoting transparency, freedom, and collective ownership. By embracing and enforcing GPL, we can challenge the dominance of control societies and pave the way for a more equitable and democratic technological future. The shift towards GPL-compliant software aligns with Left Accelerationist ethics, promoting technological acceleration, social and economic transformation, and a redistribution of technological power.
+- **Programming Languages**: C, Shell Scripts, Python, Java, JavaScript, HTML/CSS
+- **Development Tools**: Git, Make, ncurses
+- **Operating Systems**: Arch Linux, various Linux distributions
+- **Other**: SQL, basic knowledge of front-end and back-end technologies
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/yourusername)
+- [Twitter](https://twitter.com/yourusername)
+- [Email](mailto:yourname@example.com)
+
+---
+
+Feel free to customize the content as needed and replace placeholders like `yourusername` and `yourname@example.com` with your actual details.
