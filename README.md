@@ -19,7 +19,7 @@ Thermo-Scout is a real-time temperature monitoring tool for Linux systems, writt
 - Adding a TUI and GUI for better user interaction.
 - Real-time Cartesian graphical visualization.
 
-[Check out Thermo-Scout](https://github.com/yourusername/thermo-scout)
+[Check out Thermo-Scout](https://github.com/matlzztt/thermo-scout)
 
 ### 📋 Task Management System
 Developing an organizational system to manage daily, weekly, and monthly tasks. The project will eventually evolve into a mobile app (Android) and desktop application (Linux) with a prototype TUI using C++ and ncurses.
@@ -33,13 +33,6 @@ Engaged in various Linux-based projects, enhancing system functionality, automat
 - **Development Tools**: Git, Make, ncurses
 - **Operating Systems**: Arch Linux, various Linux distributions
 - **Other**: SQL, basic knowledge of front-end and back-end technologies
-
-## Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/yourusername)
-- [Twitter](https://twitter.com/yourusername)
-- [Email](mailto:yourname@example.com)
-
 ---
 
 Feel free to customize the content as needed and replace placeholders like `yourusername` and `yourname@example.com` with your actual details.
