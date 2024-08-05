@@ -11,8 +11,8 @@ My experience spans several programming languages and technologies, including:
 
 ## Current Projects
 
-### 🌡️ Thermo-Scout
-Thermo-Scout is a real-time temperature monitoring tool for Linux systems, written entirely in C. The project aims to provide efficient and accurate temperature readings from various sensors, complete with logging and visualization features. Future enhancements include:
+### 🌡️ thermo-scout
+`thermo-scout` is a real-time temperature monitoring tool for Linux systems, written entirely in C. The project aims to provide efficient and accurate temperature readings from various sensors, complete with logging and visualization features. Future enhancements include:
 - Packaging as an installable executable using Pacman.
 - Adding a TUI and GUI for better user interaction.
 - Real-time Cartesian graphical visualization.
