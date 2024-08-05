@@ -3,7 +3,7 @@
 
 ## About Me
 
-I'm currently enrolled as a Computer Science undergraduate at the Center of Studies and Advanced Systems of Recife (CESAR School). My experience spans several programming languages and technologies, including:
+My experience spans several programming languages and technologies, including:
 
 - **C**: Deeply involved in Linux development & system administration.
 - **Shell Scripts**: Scripting to automate tasks and enhance system functionality.
