@@ -1,8 +1,6 @@
 
 # Greetings, humans and robots.
 
-## About Me
-
 My experience spans several programming languages and technologies, including:
 
 - **C**: Deeply involved in Linux development & system administration.
