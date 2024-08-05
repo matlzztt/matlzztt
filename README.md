@@ -1,5 +1,5 @@
 
-# Welcome to My GitHub Profile! 👋
+# Greetings, humans and robots.
 
 ## About Me
 
@@ -34,5 +34,3 @@ Engaged in various Linux-based projects, enhancing system functionality, automat
 - **Operating Systems**: Arch Linux, various Linux distributions
 - **Other**: SQL, basic knowledge of front-end and back-end technologies
 ---
-
-Feel free to customize the content as needed and replace placeholders like `yourusername` and `yourname@example.com` with your actual details.
