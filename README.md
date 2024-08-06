@@ -6,6 +6,7 @@ My experience spans several programming languages and technologies, including:
 - **C**: Deeply involved in Linux development & system administration.
 - **Shell Scripts**: Scripting to automate tasks and enhance system functionality.
 - **Python**: Versatile scripting and automation.
+- **R**: Data Analysis and presentation.
 - **Java**: Object-oriented programming and application development.
 - **Web Development**: Proficient in HTML, CSS, and JavaScript.
 
