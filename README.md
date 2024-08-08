@@ -1,9 +1,9 @@
 
 # Greetings, humans and robots.
 
-My experience spans several programming languages and technologies, including:
+I dabble in a few programming languages and technologies, including:
 
-- **C**: Deeply involved in Linux development & system administration.
+- **C**: Linux development & system administration.
 - **Shell Scripts**: Scripting to automate tasks and enhance system functionality.
 - **Python**: Versatile scripting and automation.
 - **R**: Data Analysis and presentation.
