@@ -3,12 +3,12 @@
 
 I dabble in a few programming languages and technologies, including:
 
-- **C**: Linux development & system administration.
-- **Shell Scripts**: Scripting to automate tasks and enhance system functionality.
-- **Python**: Versatile scripting and automation.
+- **C**: Development of performance-critical systems.
+- **Shell Scripts**: Task automation.
+- **Python**: Scripting, automation and webdev using Django.
 - **R**: Data Analysis and presentation.
-- **Java**: Object-oriented programming and application development.
-- **Web Development**: Proficient in HTML, CSS, and JavaScript.
+- **Java**: Object-oriented programming.
+- **HTML, CSS, and JavaScript**: Basic creation of websites and API interactions.
 
 ## Current Projects
 
