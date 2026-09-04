@@ -27,10 +27,3 @@ books. BM25 with name and phrase boosting, fused with `bge-small-en-v1.5`
 embeddings, scored against question sets whose answers were read off the printed
 page. Keyword lookups and paraphrases fail in different directions, so they are
 measured separately; averaging them hides exactly the thing worth knowing.
-
-### Elsewhere
-
-C and shell when the problem sits close to the hardware —
-[thermo-scout](https://github.com/matlzztt/thermo-scout) reads Linux sensor data
-in real time. [dotfiles](https://github.com/matlzztt/dotfiles) is Neovim, Kitty
-and XFCE4, which is where all of the above gets written.
