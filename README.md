@@ -1,15 +1,5 @@
 ## Greetings, humans and robots.
 
-I build Python tooling for tabletop games: retrieval systems that let a model
-answer a rules question with the book and page it came from, and file-format
-utilities that move character data between programs which don't talk to each
-other.
-
-The through-line is verification. Retrieval that isn't measured is guesswork, so
-every index I build ships with a hand-verified known-answer question set, and
-every converter is checked against the target application's own binary rather
-than against my reading of its file format.
-
 ### What I'm working on
 
 **[gurps-sheet-migrator](https://github.com/matlzztt/gurps-sheet-migrator)** —
