@@ -20,10 +20,3 @@ fixture export and then talks to a live server over stdio.
 SQLite database and exposes it as thirteen structured MCP tools, so a model can
 ask what happened in a world's history instead of being handed an unbounded XML
 dump and asked to cope.
-
-Not public, but where most of the retrieval work happens: two hybrid pipelines
-over RPG rulebook corpora — 21 *Vampire: The Masquerade* books and 25 GURPS
-books. BM25 with name and phrase boosting, fused with `bge-small-en-v1.5`
-embeddings, scored against question sets whose answers were read off the printed
-page. Keyword lookups and paraphrases fail in different directions, so they are
-measured separately; averaging them hides exactly the thing worth knowing.
